@@ -1,0 +1,5 @@
+3 3
+Hermis     6 1 2
+Geda       6 6 2
+Hera       2 6 6
+

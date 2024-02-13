@@ -1,0 +1,5 @@
+4
+Kauno         5 15
+Vilniaus      1 2
+Alytaus       2 1
+Utenos        1 1
